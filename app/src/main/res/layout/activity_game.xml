@@ -1,0 +1,299 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:id="@+id/layout"
+    android:clickable="true"
+    android:background="#FFF599"
+
+    >
+
+    <ImageView
+        android:layout_width="65dp"
+        android:layout_height="50dp"
+        android:id="@+id/pillartop1"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillartop"
+        />
+    <ImageView
+        android:layout_width="65dp"
+        android:layout_height="50dp"
+        android:id="@+id/pillartop2"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillartop"
+        />
+    <ImageView
+        android:layout_width="65dp"
+        android:layout_height="50dp"
+        android:id="@+id/pillartop3"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillartop"
+        />
+    <ImageView
+        android:layout_width="65dp"
+        android:layout_height="50dp"
+        android:id="@+id/pillartop4"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillartop"
+        />
+    <ImageView
+        android:layout_width="65dp"
+        android:layout_height="50dp"
+        android:id="@+id/pillartop5"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillartop"
+        />
+    <ImageView
+        android:layout_width="65dp"
+        android:layout_height="50dp"
+        android:id="@+id/pillartop6"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillartop"
+        />
+
+<ImageView
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/logo"
+    android:layout_alignParentTop="true"
+    android:layout_centerHorizontal="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentRight="true"
+    android:src="@drawable/logo"
+    android:paddingLeft="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_vertical_margin"/>
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/playBtn"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="378dp"
+
+        android:paddingLeft="@dimen/activity_vertical_margin"
+        android:paddingRight="@dimen/activity_vertical_margin"
+        android:paddingTop="@dimen/activity_vertical_margin"
+
+
+        android:background="@drawable/start"
+        android:layout_below="@+id/logo"
+        />
+
+    <ImageView
+        android:layout_width="79dp"
+        android:layout_height="142dp"
+        android:id="@+id/pillar10"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillar"
+        />
+
+    <ImageView
+        android:layout_width="79dp"
+        android:layout_height="142dp"
+        android:id="@+id/pillar9"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillar"
+        />
+    <ImageView
+        android:layout_width="79dp"
+        android:layout_height="142dp"
+        android:id="@+id/pillar8"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillar"
+        />
+    <ImageView
+        android:layout_width="79dp"
+        android:layout_height="142dp"
+        android:id="@+id/pillar7"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillar"
+        />
+    <ImageView
+        android:layout_width="79dp"
+        android:layout_height="142dp"
+        android:id="@+id/pillar6"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillar"
+        />
+
+
+     <ImageView
+    android:layout_width="79dp"
+    android:layout_height="142dp"
+    android:id="@+id/pillar5"
+    android:layout_alignParentStart="false"
+    android:layout_alignParentLeft="false"
+    android:layout_alignParentRight="false"
+    android:layout_alignParentEnd="false"
+    android:src="@drawable/pillar"
+    />
+    <ImageView
+        android:layout_width="79dp"
+        android:layout_height="142dp"
+        android:id="@+id/pillar4"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillar"
+        />
+    <ImageView
+    android:layout_width="79dp"
+    android:layout_height="142dp"
+    android:id="@+id/pillar3"
+    android:layout_alignParentStart="false"
+    android:layout_alignParentLeft="false"
+    android:layout_alignParentRight="false"
+    android:layout_alignParentEnd="false"
+    android:src="@drawable/pillar"
+    />
+
+    <ImageView
+        android:layout_width="79dp"
+        android:layout_height="142dp"
+        android:id="@+id/pillar2"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillar"
+        />
+    <ImageView
+        android:layout_width="79dp"
+        android:layout_height="142dp"
+        android:id="@+id/pillar1"
+        android:layout_alignParentStart="false"
+        android:layout_alignParentLeft="false"
+        android:layout_alignParentRight="false"
+        android:layout_alignParentEnd="false"
+        android:src="@drawable/pillar"
+        />
+
+    <ImageView
+    android:layout_width="24dp"
+    android:layout_height="26dp"
+    android:id="@+id/ball"
+    android:layout_alignParentStart="false"
+    android:layout_alignParentLeft="false"
+    android:layout_alignParentRight="false"
+    android:layout_alignParentEnd="false"
+    android:src="@drawable/ball"
+    />
+
+    <ImageView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/gameOver"
+        android:layout_alignTop="@+id/logo"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp"
+        android:src="@drawable/gameover"
+
+        />
+
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/retryBtn"
+        android:layout_alignLeft="@+id/playBtn"
+        android:text="Retry"
+        android:textColor="#FFFFFF"
+        android:textSize="30sp"
+        android:background="@drawable/retry"
+        android:layout_below="@+id/gameOver"
+        android:layout_marginTop="70dp"/>
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scoreBoard"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="29dp"
+        android:src="@drawable/score"
+       />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/scoreOnBoard"
+
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="161dp"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:text="0"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/highscoreOnBoard"
+        android:layout_alignParentBottom="true"
+
+        android:layout_marginBottom="61dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:text="0"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="40sp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/score"
+
+        android:layout_marginBottom="35dp"
+        android:gravity="center"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+
+        android:text="0"
+        android:textAppearance="?android:attr/textAppearanceSmall"
+        android:textSize="40sp"
+        />
+
+
+
+</RelativeLayout>
